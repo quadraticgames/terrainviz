@@ -28,6 +28,9 @@ from terrainwave import TerrainWave
 terrain = TerrainWave()
 ```
 
+## Screenshot
+![TerrainWave Screenshot](Screenshot.png)
+
 ## Project Structure
 
 ```
