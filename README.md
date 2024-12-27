@@ -1,6 +1,6 @@
 # TerrainWave
 
-TerrainWave is a Python-based terrain generation and visualization tool.
+TerrainWave is a Python-based terrain generation and visualization tool. It uses a Python script in Blender.
 
 ## Features
 
